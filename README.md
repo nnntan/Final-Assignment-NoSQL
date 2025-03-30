@@ -28,26 +28,23 @@ This is a Node.js application using MongoDB for managing a collection of books.
 ## Installation
 
 1. Clone the repository:
-   ```bash
+
+```bash
    git clone <repository-url>
-   ```
+```
+
 2. Install dependencies:
-   ```bash
-   npm install
-   ```
+
+```bash
+npm i express mongoose dotenv
+```
+
 3. Set up environment variables in `.env`:
-   ```
-   PORT=3000
-   MONGODB_URI='mongodb://localhost:27017/books_store'
-   ```
 
-## Usage
-
-1. Start the server:
-   ```bash
-   npm start
-   ```
-2. Access the API at `http://localhost:3000/api/books`.
+```bash
+PORT=3000
+MONGODB_URI='mongodb://localhost:27017/books_store'
+```
 
 ## Seeding the Database
 
@@ -56,6 +53,16 @@ Run the following command to populate the database with sample data:
 ```bash
 node src/seed/seed.js
 ```
+
+## Usage
+
+1. Start the server:
+
+```bash
+node src/app.js
+```
+
+2. Access the API at `http://localhost:3000/api/books`.
 
 ## API Endpoints
 
