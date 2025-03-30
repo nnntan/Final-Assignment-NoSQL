@@ -6,7 +6,6 @@ This is a Node.js application using MongoDB for managing a collection of books.
 
 ## Features
 
-- CRUD operations for books.
 - Query books by specific criteria.
 - Seed the database with sample data.
 
