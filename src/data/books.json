@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Learn Programming",
+    "author_full_name": "John Doe",
+    "publishing_year": 2025,
+    "genre": "Technology",
+    "num_of_favorites": 120
+  },
+  {
+    "title": "Advanced MongoDB",
+    "author_full_name": "Jane Smith",
+    "publishing_year": 2023,
+    "genre": "Technology",
+    "num_of_favorites": 95
+  },
+  {
+    "title": "Cooking 101",
+    "author_full_name": "Alice Johnson",
+    "publishing_year": 2024,
+    "genre": "Cooking",
+    "num_of_favorites": 50
+  },
+  {
+    "title": "Programming Basics",
+    "author_full_name": "John Doe",
+    "publishing_year": 2025,
+    "genre": "Technology",
+    "num_of_favorites": 200
+  },
+  {
+    "title": "Data Science Handbook",
+    "author_full_name": "Jane Smith",
+    "publishing_year": 2022,
+    "genre": "Technology",
+    "num_of_favorites": 150
+  },
+  {
+    "title": "JavaScript Essentials",
+    "author_full_name": "Chris Brown",
+    "publishing_year": 2021,
+    "genre": "Technology",
+    "num_of_favorites": 80
+  },
+  {
+    "title": "Mastering Python",
+    "author_full_name": "Emily Davis",
+    "publishing_year": 2020,
+    "genre": "Technology",
+    "num_of_favorites": 140
+  },
+  {
+    "title": "Healthy Living",
+    "author_full_name": "Sophia Lee",
+    "publishing_year": 2023,
+    "genre": "Health",
+    "num_of_favorites": 60
+  },
+  {
+    "title": "The Art of Design",
+    "author_full_name": "Michael Scott",
+    "publishing_year": 2024,
+    "genre": "Art",
+    "num_of_favorites": 110
+  },
+  {
+    "title": "AI Revolution",
+    "author_full_name": "John Doe",
+    "publishing_year": 2025,
+    "genre": "Technology",
+    "num_of_favorites": 300
+  },
+  {
+    "title": "Node.js in Action",
+    "author_full_name": "John Doe",
+    "publishing_year": 2023,
+    "genre": "Technology",
+    "num_of_favorites": 180
+  },
+  {
+    "title": "React for Beginners",
+    "author_full_name": "John Doe",
+    "publishing_year": 2024,
+    "genre": "Technology",
+    "num_of_favorites": 220
+  },
+  {
+    "title": "Vue.js Essentials",
+    "author_full_name": "John Doe",
+    "publishing_year": 2022,
+    "genre": "Technology",
+    "num_of_favorites": 150
+  },
+  {
+    "title": "Mastering TypeScript",
+    "author_full_name": "Jane Smith",
+    "publishing_year": 2025,
+    "genre": "Technology",
+    "num_of_favorites": 170
+  },
+  {
+    "title": "Python for Data Science",
+    "author_full_name": "Jane Smith",
+    "publishing_year": 2023,
+    "genre": "Technology",
+    "num_of_favorites": 200
+  },
+  {
+    "title": "Deep Learning with Python",
+    "author_full_name": "Jane Smith",
+    "publishing_year": 2024,
+    "genre": "Technology",
+    "num_of_favorites": 250
+  },
+  {
+    "title": "The Art of Cooking",
+    "author_full_name": "Alice Johnson",
+    "publishing_year": 2025,
+    "genre": "Cooking",
+    "num_of_favorites": 90
+  },
+  {
+    "title": "Baking Basics",
+    "author_full_name": "Alice Johnson",
+    "publishing_year": 2023,
+    "genre": "Cooking",
+    "num_of_favorites": 120
+  },
+  {
+    "title": "Healthy Recipes",
+    "author_full_name": "Alice Johnson",
+    "publishing_year": 2024,
+    "genre": "Cooking",
+    "num_of_favorites": 130
+  },
+  {
+    "title": "AI for Everyone",
+    "author_full_name": "John Doe",
+    "publishing_year": 2025,
+    "genre": "Technology",
+    "num_of_favorites": 300
+  }
+]
